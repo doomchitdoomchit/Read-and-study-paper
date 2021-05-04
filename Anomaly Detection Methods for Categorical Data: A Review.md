@@ -13,7 +13,12 @@
 
 ### 3.1 Marinal Frequency
 1. Attribute Value Frequency(이하 AVF)
-  $AVG(x_i) = \frac{1}{q} \Sigma^{q}_{j=1} f(x_{ij})$
+<img src="https://latex.codecogs.com/svg.latex?AVG(x_i)=\frac{1}{q}\sum^{q}_{j=1} f(x_{ij})  " /> 
+
+"""math
+AVG(x_i) = \frac{1}{q}
+"""
+  
 2. Square of the Complement Frequency(이하 SCF)
 3. Weighted Value Frequency(이하 WAVF)
 4. Weighted Density-based Outlier Detection(이하 WDOD)
